@@ -1,0 +1,48 @@
+---
+---
+
+<div class="section">
+    <div class="col two blank"></div>
+    <div class="col two">
+        <em>Design that has been stripped down to
+        its bare core just before it might have lost its integrity
+        and broken down altogether.</em>
+    </div>
+</div>
+
+<div class="section hover-tiles">
+    <div class="col three box">
+        {% assign work = site.works[-1] %}
+        {% include index-hover-thumb.html %}
+    </div>
+    <div class="col one box">
+        {% assign work = site.works[-2] %}
+        {% include index-hover-thumb.html %}
+    </div>
+    <div class="col one box">
+        {% assign work = site.works[-3] %}
+        {% include index-hover-thumb.html %}
+    </div>
+    <div class="col one box">
+        {% assign work = site.works[-4] %}
+        {% include index-hover-thumb.html %}
+    </div>
+</div>
+
+<div class="section hover-tiles">
+    <div class="col one box">
+        <div class="blank"></div>
+    </div>
+    <div class="col one box">
+        {% assign work = site.works[-5] %}
+        {% include index-hover-thumb.html %}
+    </div>
+    <div class="col one box">
+        {% assign work = site.works[-6] %}
+        {% include index-hover-thumb.html %}
+    </div>
+    <div class="col one box">
+        {% assign work = site.works[-7] %}
+        {% include index-hover-thumb.html %}
+    </div>
+</div>

@@ -1,0 +1,17 @@
+---
+title:  Works
+---
+
+<h1>{{ page.title }}</h1>
+
+<p>
+    <em>Don't ask yourself what the world needs, ask yourself what makes you come alive.
+        And then go and do that. Because what the world needs is people who have come alive.
+    </em>
+</p>
+
+<div class="section indent-one">
+    {% for work in site.works reversed %}
+    <div class="col one box">{% include work-index-thumb.html %}</div>
+    {% endfor %}
+</div>

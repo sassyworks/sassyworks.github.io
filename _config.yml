@@ -1,0 +1,25 @@
+# Outputting
+permalink: none
+
+# Colections
+collections:
+  works:
+    output: true
+    values:
+      thumb: thumb.png
+    type: posts
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "works"
+      type: "posts"
+    values:
+      layout: "works"
+      category: "works"
+
