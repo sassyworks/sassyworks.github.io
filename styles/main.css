@@ -145,6 +145,7 @@ blockquote li { padding: .5em 0;}
 
 blockquote img {
     width: 100%;
+	float:right;
 }
 
 /*  GRID OF EIGHT   ============================================================================= */
