@@ -213,6 +213,9 @@ ul.list.one li:nth-child(3n+1) {
 	.section.indent-one {
 		padding-left: 0;
 	}
+	.section.indent-one div.box:nth-child(3n+1) {
+		margin-left: 0;
+	}
 }
 
 /* portfolio pages*/
