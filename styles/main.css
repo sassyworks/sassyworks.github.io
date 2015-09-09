@@ -145,13 +145,22 @@ blockquote li { padding: .5em 0;}
 
 blockquote img {
     width: 100%;
-	float:right;
+}
+
+article > p > img {
+	width: 100%;
+	float: right;
+}
+
+article > p > em {
+	display: block;
 }
 
 /*  GRID OF EIGHT   ============================================================================= */
 .span_8_of_8, .all { width: 100%;}
 .span_7_of_8 { width: 87.3%;}
-.span_6_of_8, .three, article > p { width: 74.6%;}
+.span_6_of_8, .three,
+article > p > em { width: 74.6%;}
 .span_5_of_8 { width: 61.9%;}
 .span_4_of_8, .two { width: 49.2%;}
 .span_3_of_8 { width: 36.5%;}
