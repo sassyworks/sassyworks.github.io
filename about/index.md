@@ -130,7 +130,7 @@ to the core. The bare core of design.
 {: .list .one .indent-one}
 +   **1st Prize** for Corporate Website
     - Fobes E-volution, April 2015
-    - [telerik.com][]
+    - [telerik.com](/works/telerik.html)
 
 +   **1st Prize** in Category Services
     - Bulgarian Web Awards, June 2011
@@ -246,7 +246,7 @@ to the core. The bare core of design.
     
 +	**1st Prize** in Category Services 
 	- Bulgarian Web Awards, June 2009
-    - netage.bg
+    - [netage.bg](/works/netage.html)
 
 +	**1st Prize** in Category Social Network 
 	- Bulgarian Web Awards, June 2009
