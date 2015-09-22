@@ -9,17 +9,21 @@ title: Clients
 - Cefin
 - Euromarket
 - Toyo
+- 
 >
 > ### Cultural Sector 
 - Boyana Church
 - iConcertina
+- 
 >
 > ### Education
 - Egmont Bulgaria
 - Centre for Advanced Studies
+- 
 >
 > ### Energy
 - Gaas
+- 
 >
 > ### Financial Services
 - Abraaj Investments
@@ -50,28 +54,33 @@ title: Clients
 {: .one}
 >### Fashion
 - Capasca
+- 
 >
 >### Food & Beverages
 - BeFit
 - Kamenitza
 - Petisco
 - Vinprom Peshtera
+- 
 >
 >### Government
 - Ministry of Travel & Culture
 - MINT
+- 
 >
 >### Healthcare & Science
 - BioTrade
 - GlaxoSmithKline
 - Sopharma
 - Tokuda
+- 
 >
 >### Home & Furniture
 - Happy Dreams
 - Nikrom
 - MIM
 - Tahov
+- 
 >
 >### Media & Entertainment
 - Bulgarian National Television
@@ -81,16 +90,19 @@ title: Clients
 - ViewSofia
 - WebCafe
 - Web Media Group
+- 
 >
 >### NGOs
 - Brand Manager
 Centre for SouthEast European Studies
+- 
 >
 >### Professional Service
 - Aleixo Insurance Agency
 - Landwell
 - MPG
 - Novel
+- 
 >
 >### Retail & Wholesale
 - Avon
@@ -113,12 +125,14 @@ Centre for SouthEast European Studies
 - Sofbuild
 - Smilen
 - Torin
+- 
 >
 >### Start-Ups
 - 1One
 - ComMetric
 - FinAnalytica
 - InvoiceMe
+- 
 >
 >### Technology & Engineering
 - Equatec
@@ -129,6 +143,7 @@ Centre for SouthEast European Studies
 - Saturn Engineering
 - Telerik
 - Ultraflex International
+- 
 >
 >### Telecoms
 - AllTelecoms
@@ -137,12 +152,14 @@ Centre for SouthEast European Studies
 - Mtel
 - Orbitel
 - Roam'n'Roll
+- 
 >
 >### Tourism & Travel
 - Bulgaria Travel
 - Best of Rome
 - Lessno
 - Metropolitan Hotel Sofia
+- 
 >
 >### Sports
 - Maleeva Tennis Club
