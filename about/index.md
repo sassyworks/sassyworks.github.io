@@ -128,15 +128,35 @@ to the core. The bare core of design.
 ## Awards 
 
 {: .list .one .indent-one}
++   **Website of the Year** 2015
+    - Techies (TechWorld) Awards, February 2016
+    - [telerik.com](/works/telerik.html)
+
++   **Best Website Homepage Design** Hubspot List
+    - Hubspot, May 2016
+    - [telerik.com](/works/telerik.html)
+
++   **Website of the Year** Technology and Design
+    - BG Web Awards, June 2015
+    - [telerik.com](/works/telerik.html)
+
++   **1st Prize** for UX and Usability
+    - BG Web Awards, June 2015
+    - [telerik.com](/works/telerik.html)
+
 +   **1st Prize** for Corporate Website
     - Fobes E-volution, April 2015
     - [telerik.com](/works/telerik.html)
 
++   **Best Website Homepage Design** Hubspot List
+    - Hubspot, January 2015
+    - [telerik.com](/works/telerik.html)
+
 +   **1st Prize** in Category Services
     - Bulgarian Web Awards, June 2011
-    - metropolitanhotelsofia.com
+    - [metropolitanhotelsofia.com] (/works/metropolitan.html)
 
-+   **1st Prize** Audience Award in Categry Education, Science and Culture
++   **1st Prize** Audience Award in Education, Science and Culture
 	- BG Site, November 2011
     - btv.bg/seriali/7chasa/
 						
@@ -258,19 +278,19 @@ to the core. The bare core of design.
 
 +	**1st Prize** in Category Style 
 	- International Web Festival Albena, June 2008
-    - [viewsofia.com][]
+    - [viewsofia.com](/works/viewsofia.html)
 
 +	**2nd Prize** in Category Properties 
 	- International Web Festival Albena, June 2008
-	- [tahov.com][]
+	- [tahov.com] (/works/tahov.html)
 
 +	**3rd Prize** in Category Information 
 	- International Web Festival Albena, June 2008
-	- [topsport.bg][]
+	- topsport.bg
 
 +	**1st Prize** in Category Personal Site 
 	- BG Site, November 2006
-	- [sassyworks.com][/]
+	- sassyworks.com
 			
 +	**1st Prize** in Category Finance 
 	- BG Site, November 2006
@@ -302,23 +322,23 @@ to the core. The bare core of design.
 
 +	**Special Award for Best Use of Animation/Video** 
 	- International Web Festival Albena, June 2006
-    - [capasca.com][]
+    - capasca.com
 
 +	**Nominee Audience Award** in Category Sites Optimized for Mobile Devices 
 	- BG Site, November 2006
-    - [roam-n-roll.com][]
+    - roam-n-roll.com
 
 +	**1st Prize** in Category Fashion 
 	- International Web Festival Albena, June 2006
-    - [capasca.com][]
+    - capasca.com
 
 +	**1st Prize** in Category Sports 
 	- International Web Festival Albena, June 2006
-    - [maleevaclub.com][]
+    - maleevaclub.com
 
 +   **1st Prize** in Category Mobile Devices 
 	- International Web Festival Albena, June 2006
-    - [roam-n-roll.com][]
+    - roam-n-roll.com
 
 +	**1st Prize** in Category Services 
 	- BG Site, November 2005
@@ -326,11 +346,11 @@ to the core. The bare core of design.
 						
 +	**1st Prize** in Category Sport 
 	- BG Site, November 2005
-    - [maleevaclub.com][]
+    - maleevaclub.com
 
 +	**1st Prize** in Category Online Advertising Campaign 
 	- BG Site, November 2005
-    - [maleevaclub.com][]
+    - maleevaclub.com
 
 +	**Nominee Audience Award** in Category Sport 
 	- BG Site, November 2006
@@ -346,7 +366,7 @@ to the core. The bare core of design.
 
 +	**2nd Prize** in Category Industry and Manufacture 
 	- BG Site, November 2005
-    - [capasca.com][]
+    - capasca.com
 
 +	**2nd Prize** in Category Arts 
 	- International Web Festival Albena, June 2004
@@ -358,11 +378,11 @@ to the core. The bare core of design.
 
 +	**3rd Prize Audience Award** in Category Sport 
 	- BG Site, November 2005
-    - [maleevaclub.com][]
+    - maleevaclub.com
 
 +	**3rd Prize Audience Award** in Category Online Advertising Campaign 
 	- BG Site, November 2005
-    - [maleevaclub.com][]
+    - maleevaclub.com
 
 +   **3rd Prize** in Category E-commerce
 	- BG Site, November 2005
