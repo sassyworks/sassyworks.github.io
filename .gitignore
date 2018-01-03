@@ -1,3 +1,5 @@
 _site/
 .sass-cache/
 .idea/
+styles/.DS_Store
+styles/images/SVG/.DS_Store
