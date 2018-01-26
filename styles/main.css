@@ -238,11 +238,11 @@ ul.list.one li:nth-child(3n+1) {
 }
 
 i.site-logo {
-	width:158px;
-	height:17px;
+	width:160px;
+	height:27px;
 	display:inline-block;
 	vertical-align: text-bottom;
-	background-image:url(images/logo.png);
+	background-image:url(images/logo.svg);
 }
 
 i.site-slogan {
@@ -250,7 +250,7 @@ i.site-slogan {
 	height:72px;
 	display:inline-block;
 	vertical-align: text-bottom;
-	background-image:url(images/slogan.png);
+	background-image:url(images/slogan.svg);
 }
 
 /*hover tiles*/
