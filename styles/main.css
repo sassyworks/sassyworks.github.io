@@ -150,6 +150,7 @@ blockquote img {
 article > p > img {
 	width: 100%;
 	float: right;
+	margin-bottom: 1em;
 }
 
 article > p > em {
