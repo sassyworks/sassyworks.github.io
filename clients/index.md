@@ -14,6 +14,7 @@ title: Clients
 > ### Cultural Sector 
 - Boyana Church
 - iConcertina
+- Illustration Cupboard
 - 
 >
 > ### Education
@@ -23,6 +24,7 @@ title: Clients
 >
 > ### Energy
 - Gaas
+- OPET
 - 
 >
 > ### Financial Services
@@ -44,8 +46,10 @@ title: Clients
 - LP Capital
 - Matlin Patterson
 - MKB Union Bank
+- MREEM
 - Park Street Capital
 - ProCredit Bank
+- Provident Advisors
 - Raiffeisenbank
 - Samson Capital
 - Twin Haven Capital
@@ -54,6 +58,7 @@ title: Clients
 {: .one}
 >### Fashion
 - Capasca
+- Viema
 - 
 >
 >### Food & Beverages
@@ -77,9 +82,11 @@ title: Clients
 >
 >### Home & Furniture
 - Happy Dreams
+- IKIS 
 - Nikrom
 - MIM
 - Tahov
+- Zagata
 - 
 >
 >### Media & Entertainment
@@ -94,11 +101,12 @@ title: Clients
 >
 >### NGOs
 - Brand Manager
-Centre for SouthEast European Studies
+- Centre for SouthEast European Studies
 - 
 >
 >### Professional Service
 - Aleixo Insurance Agency
+- Indoor
 - Landwell
 - MPG
 - Novel
@@ -106,6 +114,8 @@ Centre for SouthEast European Studies
 >
 >### Retail & Wholesale
 - Avon
+- DarExpress
+- Insens
 - Marisan
 - Prodavalnik
 - Technopolis
@@ -131,6 +141,7 @@ Centre for SouthEast European Studies
 - 1One
 - ComMetric
 - FinAnalytica
+- Havelock
 - InvoiceMe
 - 
 >
@@ -139,8 +150,10 @@ Centre for SouthEast European Studies
 - Icenium
 - FinAnalytica
 - Netage
+- NativeScript
 - Progress
 - Saturn Engineering
+- Telelink
 - Telerik
 - Ultraflex International
 - 

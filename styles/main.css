@@ -1,28 +1,28 @@
 body {
-	color: #596674; background-color:#e0e7ee;
-	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 16px;
+	color: #596674; background-color:#FFF;
+	font-family: "Nunito Sans", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 18px;
 	font-weight: 400;
 	margin: 0;
 	padding: 0;
 }
 
 strong {
-	font-weight: 700;
+	font-weight: 800;
 }
 header, h1, h2, h3, h4, h5, h6, .menu {
 	color: #000;
 	background-color: inherit;
-	font-family: 'Open Sans', serif;
-	font-weight: 400;
+	font-family: 'Nunito Sans', serif;
+	font-weight: 800;
 	margin: 0;
 	padding: .2em 0;
 }
 
-h1 { font-size: 4.00em; font-weight: 400; letter-spacing: -0.050em;}
-h2 { font-size: 3.10em; font-weight: 400;letter-spacing: -0.050em;}
-h3 { font-size: 1.5em; font-weight: 700;}
-h4 { font-size: 1.5em; font-weight: 700;}
+h1 { font-size: 4.00em; font-weight: 800; letter-spacing: -0.030em;}
+h2 { font-size: 3.10em; font-weight: 800;letter-spacing: -0.030em;}
+h3 { font-size: 1.5em; font-weight: 800;}
+h4 { font-size: 1.5em; font-weight: 800;}
 h5 { font-size:	1.125em;}
 
 h1 + p, h2 + p {
@@ -38,7 +38,7 @@ nav + hr { margin-top: 0;}
 hr {
 	border: 0;
     height: 0;
-	border-bottom: 1px solid #ccd5e0;
+	border-bottom: 1px solid #e0e6ec;
 	margin: 1em 0;
 	clear: both;
 }
@@ -124,17 +124,17 @@ ul.list.one.indent-one{
 
 /*  1280 */
 @media only screen and (max-width: 1280px) {
-	body {font-size:16px;}
+	body {font-size:18px;}
 }
 /*  1024 */
 @media only screen and (max-width: 1024px) {
-	body {font-size: 13px;}
+	body {font-size: 15px;}
 	.menu li { width: 20%; }
 }
 
 /*  SMALL PHONE */
 @media only screen and (max-width: 599px) {
-	body {font-size: 15px;}
+	body {font-size: 17px;}
 	.col { margin: 1.6% 0 1.6% 0;}
 	.blank { display: none;}
 }
@@ -218,7 +218,7 @@ ul.list.one li:nth-child(3n+1) {
     }
 
 	ul.list.one > li {
-		margin: 1em 0;
+		margin: 1.2 em 0;
 	}
 
 	.section.indent-one {
@@ -260,11 +260,11 @@ i.site-slogan {
 	float: left;
 	opacity: 0;
 	background: none;
-	padding: 0;
+	padding: 1.5em;
 }
 
 .hover-tiles .thumb {
-	opacity: 1;
+	opacity: 0.9;
 	-webkit-transition: opacity .5s ease-in-out;
 	-moz-transition: opacity .5s ease-in-out;
 	-o-transition: opacity .5s ease-in-out;
@@ -277,20 +277,20 @@ i.site-slogan {
 
 .hover-tiles .col:hover .hover.thumb {
 	/*display:block;*/
-	opacity: 1;
-	-webkit-transition: opacity .5s ease-in-out;
-	-moz-transition: opacity .5s ease-in-out;
-	-o-transition: opacity .5s ease-in-out;
-	transition: opacity .5s ease-in-out;
+	opacity: 0.9;
+	-webkit-transition: opacity .3s ease-in-out;
+	-moz-transition: opacity .3s ease-in-out;
+	-o-transition: opacity .3s ease-in-out;
+	transition: opacity .3s ease-in-out;
 }
 
 .hover-tiles .col:hover .thumb {
 	/*display:none;*/
 	opacity: 0.1;
-	-webkit-transition: opacity .5s ease-in-out;
-	-moz-transition: opacity .5s ease-in-out;
-	-o-transition: opacity .5s ease-in-out;
-	transition: opacity .5s ease-in-out;
+	-webkit-transition: opacity .3s ease-in-out;
+	-moz-transition: opacity .3s ease-in-out;
+	-o-transition: opacity .3s ease-in-out;
+	transition: opacity .3s ease-in-out;
 }
 
 .box a .thumb {
@@ -299,7 +299,7 @@ i.site-slogan {
 
 .nav-controls {
 	float: right;
-	margin-top: 1em;
+	margin-top: 1.5em;
 }
 	.nav-controls .button {
 		width: 3.4em;
