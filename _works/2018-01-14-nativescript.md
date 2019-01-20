@@ -17,7 +17,9 @@ Decluttering website layout, organising information and improve readability to g
 
 {: .one}
 > ### Challenge
-> Focus NativeScript users on the content and reduce unnecessary distractions as much as possible, while still not oversimplifying the interface. 
+> NativeScript is an institution among developer community. The main challenge was to create a website that truly resonates with developer audience. 
+>
+I had to reduce the unnecessary distractions and create consistent and predictable experience while still not oversimplifying the interface. Anticipating what users might need and ensuring that all website elements are easy to access, understand, and use was my main goal. 
 
 {: .one}
 > ### Solution
