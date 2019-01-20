@@ -4,20 +4,15 @@ title: About
 
 # About
 
-*Hi, my name is Sassy and I do design stripped down to its bare core.
-I am currently a Design Lead at Telerik. My mission is to transform the web presence
-of strong independent products into a visually sustainable system 
-belonging and easily recognised by the brand Telerik.
-In my efforts since early 2012, I have been figuring out how to treat a loyal customer base
-to a new visual experience and logic without sacrificing their trust in the products they use.*
+*Hi, my name is Sassy and my mission is to do design stripped down to its bare core just before it might have lost its integrity and broken down altogether. That design does not provoke for the sake of it, nor ties down to the trend of the day, and I usually find it on the threshold between what is too much and what is too little, while looking for the balance of purpose, feeling, quantity. I am currently the Lead Designer at Progress CX team. My role is to transform the web presence of strong independent products into a visually sustainable system belonging and easily recognised by the brand Progress. I specialise in visual design and UX and I’m passionate about arts, design, technology, human-centred approaches, cognitive and perception theories, and design and innovation methodologies.*
 
 >   ![Svetoslava Ilieva](../styles/images/sassy-about-img.jpg)
 
 
 {: .one}
 > Changing visual web experiences is what I did for almost a decade at Netage web agency,
-prior to arriving in Telerik. Growing up from designer to Creative Director
-I looked for the bare core design. The web  visuals of banks, media channels,
+prior to arriving in Telerik (Progress). Growing up from designer to Creative Director
+I looked for the bare core design. The web experiences of banks, media channels,
 fashion and news outlets, hotels and even business office spaces,
 alongside Netage's brand identity were born and strolled up and down my desktop canvas.
 Intertwining all the passion and skills in what was considered the best agency of its time
@@ -26,7 +21,7 @@ felt right and it was an added pleasure to get [awarded](#Awards) for these effo
 {: .one}
 > All these years and until today that passion has followed me even after I switched off
 for the work day. After office hours I continued to pursue the bare core.
-The designs I drew or directed found home right here on sassyworks.com
+Only few of designs I drew or directed found home right here on sassyworks.com
 >
 > These days while I am not in front of a giant computer screen,
 I teach students from the Master of Arts Web Design Program
@@ -35,7 +30,7 @@ I also hold my master's degree from.
 
 {: .one}
 > In the little spare time that is left, I still feed my curiosity for design as a jury member
-for the three major Bulgarian web and digital design contests.
+for some of the major Bulgarian web and digital design contests.
 I sometimes contribute for the Experts' advice column in .Net,
 a monthly magazine for web. In 2009, I was a speaker at their first ever Design Day,
 an international forum for web design that through the years has given stage
