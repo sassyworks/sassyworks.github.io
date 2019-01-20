@@ -10,7 +10,9 @@ permalink: /works/nativescript.html
 {: .one}
 > ### Brieff
 >
-> NativeScript is an open source framework with a vibrant community of developers contributing to the project in a variety of ways. Decluttering website layout, organising information and improve readability to guide users with ease through content was an essential goal for NativeScript team.
+> NativeScript is an open source framework with a vibrant community of developers contributing to the project in a variety of ways. 
+>
+Decluttering website layout, organising information and improve readability to guide users with ease through content was an essential goal for NativeScript team.
 >
 
 {: .one}
@@ -20,7 +22,10 @@ permalink: /works/nativescript.html
 {: .one}
 > ### Solution
 >
-> Simple, structured sections make content easy to digest. Multiple clear call-to-actions. Simple, straightforward typographic hierarchy. Discrete navigation which focuses users on the content. Alternating left and right-aligned features to keep users engaged.
+> I played with different crops of the logo mark to give the website individuality. The pointing arrow shape in the logo turned out to be an excellent focal point to draw users attention to particular elements in the head banner. The overall visual direction is focused on high impact colour contrast balanced with simplicity and straightforward typographic hierarchy.
+>
+A sidebar contextual navigation is implemented on internal pages with more content. It uses sticky positioning without overlapping the header or footer and scrolls smoothly to an anchor and makes the simple, structured sections easy to approach and digest. There are multiple clear call-to-actions on every page to help users easily achieve their goals.
+>
 
 {: .clear}
 {: .clear}
