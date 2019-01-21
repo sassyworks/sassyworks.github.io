@@ -8,7 +8,7 @@ layout: works
 permalink: /works/nativescript.html
 ---
 {: .one}
-> ### Brieff
+> ### Brief
 >
 > NativeScript is an open source framework with a vibrant community of developers contributing to the project in a variety of ways. 
 >
