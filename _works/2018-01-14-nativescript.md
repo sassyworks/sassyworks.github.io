@@ -71,4 +71,23 @@ I had to make sure that the content has the perfect density that is both readabl
 ![NativeScript](images/nativescript.10.jpg)
 ![NativeScript](images/nativescript.11.jpg)
 ![NativeScript](images/nativescript.12.jpg)
+
+{: .clear}
+
+{: .one}
+> ### Credits
+
+{: .one}
+
+> Product Management: Dan Wilson, Rob Lauer, TJ VanToll
+> 
+Project Management: Rositsa Peychinova
+> 
+Art Direction&Design: Sassy Ilieva
+> 
+Icons: Rosi Raleva, Sassy Ilieva
+> 
+Implementation: Stefani Pashova, Alex Futekov
+
+{: .clear}
 ![NativeScript](images/nativescript.13.jpg)
