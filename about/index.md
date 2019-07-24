@@ -4,38 +4,23 @@ title: About
 
 # About
 
-*Hi, my name is Sassy and my mission is to do design stripped down to its bare core just before it might have lost its integrity and broken down altogether. That design does not provoke for the sake of it, nor ties down to the trend of the day, and I usually find it on the threshold between what is too much and what is too little, while looking for the balance of purpose, feeling, quantity. I am currently the Lead Designer at Progress CX team. My role is to transform the web presence of strong independent products into a visually sustainable system belonging and easily recognised by the brand Progress. I specialise in visual design and UX and I’m passionate about arts, design, technology, human-centred approaches, cognitive and perception theories, and design and innovation methodologies.*
+*Hi, my name is Sassy, and my calling is to do design stripped down to its bare core just before it might have lost its integrity and broken down altogether. A design that does not provoke for the sake of it does not tie down to the trend of the day but instead tells visual stories without overwhelming the senses. I usually find it on the threshold between what is too much and what is too little, while looking for the balance of purpose, feeling, quantity.*
 
 >   ![Svetoslava Ilieva](../styles/images/sassy-about-img.jpg)
 
 
 {: .one}
-> Changing visual web experiences is what I did for almost a decade at Netage web agency,
-prior to arriving in Telerik (Progress). Growing up from designer to Creative Director
-I looked for the bare core design. The web experiences of banks, media channels,
-fashion and news outlets, hotels and even business office spaces,
-alongside Netage's brand identity were born and strolled up and down my desktop canvas.
-Intertwining all the passion and skills in what was considered the best agency of its time
-felt right and it was an added pleasure to get [awarded](#Awards) for these efforts at design contests.
+> I am currently a VP of Design @Resolute. My mission is to create and establish Resolute’s unique, recognizable digital footprint, along with uncompromising quality.
+> 
+> Creating coherent customer experiences at scale is what I did before arriving at Resolute. Heading the Customer Experience team, I shaped the art direction and design of NativeScript.org, Telerik.com, Progress.com, among others, building a visually sustainable system belonging and easily recognized by the brand Progress.
 
 {: .one}
-> All these years and until today that passion has followed me even after I switched off
-for the work day. After office hours I continued to pursue the bare core.
-Only few of designs I drew or directed found home right here on sassyworks.com
+> Before Telerik (now Progress), I've been creating web experiences at Netage for almost a decade. Intertwining all the passion and skills in what was considered the best Bulgarian web agency of its time felt right, and it was an added pleasure to get [awarded](#Awards) for these efforts at design contests.
 >
-> These days while I am not in front of a giant computer screen,
-I teach students from the Master of Arts Web Design Program
-at the National Academy of Fine Arts in Sofia - the school
-I also hold my master's degree from.
+> All these years and until today that passion has followed me even after I switched off for the workday. While I am not in front of a giant computer screen, I teach students from the Master of Arts Web Design Program at the National Academy of Arts – the school I also hold my master’s degree from.
 
 {: .one}
-> In the little spare time that is left, I still feed my curiosity for design as a jury member
-for some of the major Bulgarian web and digital design contests.
-I sometimes contribute for the Experts' advice column in .Net,
-a monthly magazine for web. In 2009, I was a speaker at their first ever Design Day,
-an international forum for web design that through the years has given stage
-to renown names like David Carson, Artemy Lebedev, Giles Colborne, Anthony Ribot,
-and Leisa Reichelt.
+> The little spare time that is left, I devote for causes that help and promote women entrepreneurs and designers. Since late 2017 and until today, I'm a brand advisor for Femigrants, a non-profit organization located in Silicon Valey that connects female professionals and entrepreneurs and helps them grow and prosper. I also contribute to See It Be It, a Cannes Lions initiative to promote women in design leadership as a mentor and speaker.
 
 {: .clear}
 .
