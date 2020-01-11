@@ -10,17 +10,17 @@ title: About
 
 
 {: .one}
-> I am currently a VP of Design @Resolute. My mission is to create and establish Resolute’s unique, recognizable digital footprint, along with uncompromising quality.
+> I am currently a Creative Director @Gtmhub. My mission is to transform and establish a unique, recognizable digital footprint belonging and easily recognized by the brand Gtmhub, along with uncompromising quality.
 > 
-> Creating coherent customer experiences at scale is what I did before arriving at Resolute. Heading the Customer Experience team, I shaped the art direction and design of NativeScript.org, Telerik.com, Progress.com, among others, building a visually sustainable system belonging and easily recognized by the brand Progress.
+> Creating coherent customer experiences at scale is what I did during my journey at Telerik (now Progress) before arriving at Gtmhub. Heading the Customer Experience team, I shaped the art direction and design of NativeScript.org, Telerik.com, Progress.com, among others, building a sustainable design system on top of which these websites continue to evolve.
 
 {: .one}
-> Before Telerik (now Progress), I've been creating web experiences at Netage for almost a decade. Intertwining all the passion and skills in what was considered the best Bulgarian web agency of its time felt right, and it was an added pleasure to get [awarded](#Awards) for these efforts at design contests.
+> Before joining Telerik, I’ve spent almost a decade of creating web experiences for diverse industries and clients, at Netage, considered the best Bulgarian digital agency of its time. Intertwining all the passion and skills felt right, and it was an added pleasure to get [awarded](#Awards) for these efforts at design contests. My dedication to constant learning and experimenting, to not be satisfied with whatever just works, won me over 70 awards, from being featured in the “120 years of Bulgarian Art. Design” almanac to a “Website of the year” Techie Award.
 >
 > All these years and until today that passion has followed me even after I switched off for the workday. While I am not in front of a giant computer screen, I teach students from the Master of Arts Web Design Program at the National Academy of Arts – the school I also hold my master’s degree from.
 
 {: .one}
-> The little spare time that is left, I devote for causes that help and promote women entrepreneurs and designers. Since late 2017 and until today, I'm a brand advisor for Femigrants, a non-profit organization located in Silicon Valey that connects female professionals and entrepreneurs and helps them grow and prosper. I also contribute to See It Be It, a Cannes Lions initiative to promote women in design leadership as a mentor and speaker.
+> The little spare time that is left, I devote for causes that help and promote women entrepreneurs and designers. Since late 2017 and until today, I’m a brand advisor for Femigrants, a non-profit organization located in Silicon Valey that connects female professionals and entrepreneurs and helps them grow and prosper. I also contribute to See It Be It, a Cannes Lions initiative to promote women in design leadership as a mentor and speaker.
 
 {: .clear}
 .
